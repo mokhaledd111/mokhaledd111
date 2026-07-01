@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Mohamed Khaled Mostafa 👋
+**Nanotechnology & Nanoelectronics Engineering Student at Zewail City**
 
-<!--
-**mokhaledd111/mokhaledd111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An aspiring Semiconductor Device Engineer passionate about solid-state physics and device modeling. I bridge the gap between microscopic physics and macroscopic hardware engineering using advanced simulation tools, custom numerical scripts, and mathematical modeling.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Domain Expertise
+
+* **Device & Multiphysics Simulation:** Silvaco TCAD, COMSOL Multiphysics, LTSpice,Proteus
+* **Numerical Methods & Modeling:** MATLAB, Simulink, Python (Scientific Computing)
+* **Hardware Prototyping & Instrumentation:** Arduino, Circuit Design, Analog Discovery (WaveForms)
+* **Languages & Software Frameworks:** MATLAB, C/C++, Python
+
+---
+### 🔬 Applied Projects & Portfolio Highlights
+
+* **Carrier Transport Simulation:** Applied **Silvaco TCAD** to model semiconductor substrates, analyzing the direct impact of donor doping concentrations on mobility degradation and drift currents.
+* **Numerical Device Analysis:** Developed and executed custom **MATLAB** finite difference method (FDM) scripts to solve Poisson's equation, mapping localized electric fields across PN junctions.
+* **Multiphysics Thermal Modeling:** Conducted Finite Element Analysis (FEA) using **COMSOL Multiphysics** to simulate transient temperature uniformity inside Rapid Thermal Processing (RTP) wafer annealing chambers.
+* **Analog Circuit & Hardware Design:** Simulated multi-stage transistor audio amplifiers in **Proteus** and engineered practical, instrumented microcontroller circuits using **Arduino** and **WaveForms**.
+---
+
+### 📈 Stats & Profiles
+
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-khaled-672599388)](https://www.linkedin.com/in/mohamed-khaled-672599388)
+  [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:s-mohamed.mostafa@zewailcity.edu.eg)
+
+---
+
+*“Leveraging computational modeling and device physics to push the boundaries of microelectronics.”*
