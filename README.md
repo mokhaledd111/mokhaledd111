@@ -15,8 +15,8 @@ An aspiring Semiconductor Device Engineer passionate about solid-state physics a
 ---
 ### 🔬 Applied Projects & Portfolio Highlights
 
-* **Carrier Transport Simulation:** Applied **Silvaco TCAD** to model semiconductor substrates, analyzing the direct impact of donor doping concentrations on mobility degradation and drift currents.
 * **Numerical Device Analysis:** Developed and executed custom **MATLAB** finite difference method (FDM) scripts to solve Poisson's equation, mapping localized electric fields across PN junctions.
+* **Carrier Transport Simulation:** Applied **Silvaco TCAD** to model semiconductor substrates, analyzing the direct impact of donor doping concentrations on mobility degradation and drift currents.
 * **Multiphysics Thermal Modeling:** Conducted Finite Element Analysis (FEA) using **COMSOL Multiphysics** to simulate transient temperature uniformity inside Rapid Thermal Processing (RTP) wafer annealing chambers.
 * **Analog Circuit & Hardware Design:** Simulated multi-stage transistor audio amplifiers in **Proteus** and engineered practical, instrumented microcontroller circuits using **Arduino** and **WaveForms**.
 ---
