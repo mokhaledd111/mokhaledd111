@@ -6,6 +6,7 @@ Nanotechnology and Nanoelectronics Engineering undergraduate student with a stro
 Proficient in simulation using Silvaco TCAD, COMSOL, Lumerical, LTSpice, and Proteus. Experienced in numerical modeling and scientific computing via MATLAB, Simulink, and Python, alongside hardware prototyping with Arduino and Analog Discovery, backed by C/C++ programming.
 
 Passionate about continuous self-learning and deeply focused on both theoretical physics and engineering principles. Highly flexible and eager to secure dynamic internship opportunities to apply my technical background locally or overseas.
+
 ---
 
 ### 🛠️ Tech Stack & Domain Expertise
