@@ -1,8 +1,11 @@
 # Hi, I'm Mohamed Khaled Mostafa 👋
 **Nanotechnology & Nanoelectronics Engineering Student at Zewail City**
 
-An aspiring Semiconductor Device Engineer passionate about solid-state physics and device modeling. I bridge the gap between microscopic physics and macroscopic hardware engineering using advanced simulation tools, custom numerical scripts, and mathematical modeling.
+Nanotechnology and Nanoelectronics Engineering undergraduate student with a strong academic foundation in physical sciences, semiconductor physics, and modern electronics.
 
+Proficient in simulation using Silvaco TCAD, COMSOL, Lumerical, LTSpice, and Proteus. Experienced in numerical modeling and scientific computing via MATLAB, Simulink, and Python, alongside hardware prototyping with Arduino and Analog Discovery, backed by C/C++ programming.
+
+Passionate about continuous self-learning and deeply focused on both theoretical physics and engineering principles. Highly flexible and eager to secure dynamic internship opportunities to apply my technical background locally or overseas.
 ---
 
 ### 🛠️ Tech Stack & Domain Expertise
