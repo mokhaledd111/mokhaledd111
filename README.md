@@ -32,4 +32,3 @@ Passionate about continuous self-learning and deeply focused on both theoretical
 
 ---
 
-*“Leveraging computational modeling and device physics to push the boundaries of microelectronics.”*
